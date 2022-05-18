@@ -1,0 +1,11 @@
+body {
+    background-color: #ffeedf;
+}
+
+div {
+    width: 290px;
+    height: 416px;
+    background-color: #fff;
+    gap: 62px;
+    padding: 27px;
+}
